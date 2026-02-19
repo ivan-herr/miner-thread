@@ -1,6 +1,6 @@
 public class MerkleNode {
 
-    String hash;
-    MerkleNode LeftNode;
-    MerkleNode RightNode;
+    String sHash;
+    MerkleNode oLeft;
+    MerkleNode oRight;
 }
